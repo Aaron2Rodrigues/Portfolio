@@ -35,7 +35,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Aaron2Rodrigues/Profile.git
    ```
 
 2. Navigate to the project directory:
