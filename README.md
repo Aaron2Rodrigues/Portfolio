@@ -80,8 +80,8 @@ Feel free to reach out to me for any inquiries or collaborations:
 
 - **Name**: Chris Aaron Rodrigues
 - **Email**: chrisaaronrodrigues@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chris-aaron-rodrigues-37b4a2287/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Aaron2Rodrigues)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/chris-aaron-rodrigues-37b4a2287/)
+- **GitHub**: [My GitHub Profile](https://github.com/Aaron2Rodrigues)
 
 ---
 
